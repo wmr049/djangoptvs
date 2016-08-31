@@ -1,4 +1,5 @@
 // Place your settings in this file to overwrite default and user settings.
 {
-    "python.pythonPath": "E://MILTON//PROGRAMACAO//PESSOAL//djangoptvs//env//Scripts//python.exe"
+    "python.pythonPath": "E://MILTON//PROGRAMACAO//PESSOAL//djangoptvs//env//Scripts//python.exe",
+    "python.linting.pylintEnabled" : false
 }
